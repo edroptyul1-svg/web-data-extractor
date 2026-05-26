@@ -1,0 +1,1 @@
+httpx>=0.25\nbeautifulsoup4>=4.12\nlxml>=5.0
