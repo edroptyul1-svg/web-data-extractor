@@ -1,0 +1,1 @@
+class WebCrawler:\n    def crawl(self, url):\n        return url
